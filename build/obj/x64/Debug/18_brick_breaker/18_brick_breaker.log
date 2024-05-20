@@ -1,0 +1,19 @@
+﻿  main.c
+C:\Users\LENOVO\Desktop\18_brick_breaker\game\src\main.c(78,34): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\18_brick_breaker\game\src\main.c(79,34): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\18_brick_breaker\game\src\main.c(112,34): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\18_brick_breaker\game\src\main.c(113,34): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\18_brick_breaker\game\src\main.c(128,59): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\18_brick_breaker\game\src\main.c(129,60): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\18_brick_breaker\game\src\main.c(205,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\LENOVO\Desktop\18_brick_breaker\game\src\main.c(265,43): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\18_brick_breaker\game\src\main.c(265,67): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\18_brick_breaker\game\src\main.c(267,43): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\18_brick_breaker\game\src\main.c(267,67): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\18_brick_breaker\game\src\main.c(289,40): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\18_brick_breaker\game\src\main.c(289,63): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\18_brick_breaker\game\src\main.c(295,46): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\18_brick_breaker\game\src\main.c(295,72): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\18_brick_breaker\game\src\main.c(301,38): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\18_brick_breaker\game\src\main.c(301,60): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+  18_brick_breaker.vcxproj -> C:\Users\LENOVO\Desktop\18_brick_breaker\bin\Debug\18_brick_breaker.exe
